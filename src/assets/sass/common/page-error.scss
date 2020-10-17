@@ -1,0 +1,19 @@
+.page-error{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: $cl-white;
+  &__code{
+    font-size: 15rem;
+    margin: 0;
+    padding: 0;
+  }
+  &__message{
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+  }
+}

@@ -1,0 +1,11 @@
+.icon{
+  color: $cl-white;
+  margin: 0 0.5rem;
+  &:hover{
+    color: $cl-white-2;
+  }
+  &--short{
+    width: 2rem !important;
+    height: 2rem !important;
+  }
+}
