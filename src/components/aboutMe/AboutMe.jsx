@@ -20,7 +20,7 @@ const AboutMe = () => (
             Hola de nuevo!
           </h1>
           <p className="section__text section__text--center">
-            Permíteme contarte un poco más de mi.
+            Permíteme contarte un poco más de mi
           </p>
         </div>
         <div className="section__block--middle section__block--center">
@@ -36,7 +36,7 @@ const AboutMe = () => (
             Estudiante
           </h1>
           <p className="section__text section__text--center">
-            de la escuela de Ingeniería de Sistemas de la Universidad Nacional de Trujillo.
+            de la escuela de Ingeniería de Sistemas de la Universidad Nacional de Trujillo
           </p>
         </div>
       </section>
@@ -46,7 +46,7 @@ const AboutMe = () => (
             Desarrollador
           </h1>
           <p className="section__text section__text--center">
-            web de Academia Numeral.
+            web de Academia Numeral
           </p>
         </div>
         <div className="section__block--middle section__block--center">
@@ -62,7 +62,7 @@ const AboutMe = () => (
             Experiencia
           </h1>
           <p className="section__text section__text--center">
-            como desarrollador en la empresa CENITEG SOLUTIONS.
+            como desarrollador en la empresa CENITEG SOLUTIONS
           </p>
         </div>
       </section>
@@ -72,7 +72,7 @@ const AboutMe = () => (
             Experiencia
           </h1>
           <p className="section__text section__text--center">
-            en atención al cliente y glover.
+            en atención al cliente y glover
           </p>
         </div>
         <div className="section__block--middle section__block--center">
@@ -135,10 +135,10 @@ const AboutMe = () => (
         <div className="section section-wp">
           <div className="section__block--middle section__block--center">
             <h1 className="section__title">
-              He aprendido
+              Pero siempre
             </h1>
             <p className="section__text section__text--center">
-              a siempre levantarme.
+              me he levantado.
             </p>
           </div>
         </div>
