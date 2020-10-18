@@ -89,7 +89,7 @@ const HomePage = () => (
       <section id="contact" className="section section--with-footer">
         <div className="section-content">
           <div className="section__block--middle">
-            <h1 className="section__title section__title--center">Conversemos</h1>
+            <h1 className="section__title section__title--center">Contáctame</h1>
             <div className="section__contact-container">
               <h2 className="section__contact-title">Puedes contactarme a través de</h2>
               <div className="section__contact-icons-container">
